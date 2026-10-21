@@ -36,8 +36,8 @@ void main (void)
                 switch (decision)
                    {
                         case1:
-                            printf("Enter your choice from (1-4 again):");
-                            scanf("%d",&starter_choice);
+                           printf("Enter your choice from (1-4 again):");
+                           scanf("%d",&starter_choice);
                         break;
                         case2:
                             printf("\nWould you like to choose from main course\?");
